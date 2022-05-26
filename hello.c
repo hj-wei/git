@@ -4,4 +4,7 @@
 
 int main(){
 
-	printf("Hello");}
+	printf("Hello");
+	int a = 0;	
+	int b = 1;
+}
